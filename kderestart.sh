@@ -1,11 +1,4 @@
 #!/usr/bin/env bash
 
-echo '
-
-
-Realizando: killall plasmashell; kstart plasmashell
-
-
-'
-
+echo -e "\n\n\nRealizando: killall plasmashell; kstart plasmashell\n\n\n"
 killall plasmashell;kstart plasmashell;
