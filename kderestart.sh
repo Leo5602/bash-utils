@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-var restart="killall plasmashell;kstart plasmashell";
+restart="killall plasmashell;kstart plasmashell";
 
 echo 'deseja mesmo fazer isso?(S/s/N/n)';
 read deseja;
